@@ -13,7 +13,8 @@ token](https://github.com/settings/tokens) for your account. Export it as `$GITH
 or
 
 - `[ pip | brew ] install pipenv`
-- `pipfile install` (will create a vitualenv automatically)
+- `pipenv install` install packages and create a vitualenv automatically
+- `pipenv shell` to enter the virtualenv
 
 ### Run
 
