@@ -36,6 +36,8 @@ $ curl --silent -H "Authorization: token $GITHUB_TOKEN" \
     https://api.github.com/repos/<repo_owner>/<repo_name>/issues
 ```
 
+[Gihub APIs](https://developer.github.com/v3/issues/#parameters)
+
 Issues and pull requests *are* the [same entity](https://developer.github.com/v3/issues/#list-issues-for-a-repository) in Github:
 
 <figure>

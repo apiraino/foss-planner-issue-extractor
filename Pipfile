@@ -11,6 +11,8 @@ pudb = "*"
 
 [packages]
 requests = "*"
+dateparser = "*"
+csv = "*"
 
 [requires]
 python_version = "3.7"
